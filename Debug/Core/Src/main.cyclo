@@ -1,0 +1,12 @@
+../Core/Src/main.c:116:6:ClearBuffer	1
+../Core/Src/main.c:126:5:main	1
+../Core/Src/main.c:227:6:SystemClock_Config	3
+../Core/Src/main.c:275:13:MX_I2C1_Init	2
+../Core/Src/main.c:309:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:342:13:MX_GPIO_Init	1
+../Core/Src/main.c:413:6:StartOLEDTask	5
+../Core/Src/main.c:465:6:StartKeypadTask	6
+../Core/Src/main.c:507:6:StartConfigureArmTask	9
+../Core/Src/main.c:611:6:StartMotionTask	7
+../Core/Src/main.c:664:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:681:6:Error_Handler	1
